@@ -1,5 +1,5 @@
 #include<iostream>
-//Escher por Prof. Roberto
+//Escher - OBI Programação Fase 1 -  por Prof. Roberto
 using namespace std;
 int main(){
 	int n,p,l;
